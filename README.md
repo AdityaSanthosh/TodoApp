@@ -1,24 +1,3 @@
-# README
+# TodoApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Screenshot 2025-04-08 at 17-38-18 Todos](https://github.com/user-attachments/assets/1db3d9c0-a922-4de4-922c-18ce2f27474e)
