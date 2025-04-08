@@ -1,6 +1,9 @@
 Rails.application.routes.draw do
+  get 'home/index'
+  root to: 'home#index'
   resource :session
   resources :passwords, param: :token
+  resource :registrations, only: %i[new create]
   resources :todos
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
